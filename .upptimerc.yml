@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Монитор доступности ГИС ОПВК
   introTitle: 
-  introMessage: "Монитор доступности ГИС ОПВК запущен 11.02.2023 для наблюдения за доступностью системы"
+  introMessage: "Запущен 11.02.2023"
   navbar:
     - title: Статус
       href: /
