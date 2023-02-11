@@ -38,7 +38,7 @@ i18n:
   incidentOpenedAt: Открыто
   incidentClosedAt: Закрыто
   incidentViewOnGitHub: Смотреть на GitHub
-  incidentCommentSummary: Опубликовано $DATE; Автор: $AUTHOR
+  incidentCommentSummary: "Опубликовано $DATE; Автор: $AUTHOR"
   incidentBack: ← Назад ко всем инциндентам
   pastIncidents: Прошлые инцинденты
   pastIncidentsResolved: Разрешено за $MINUTES минут с $POSTS постами
