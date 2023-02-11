@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gisopvk.ru.ico",
     "slug": "gis-opvk",
     "status": "down",
-    "uptime": "5.00%",
-    "uptimeDay": "5.00%",
-    "uptimeWeek": "5.00%",
-    "uptimeMonth": "5.00%",
-    "uptimeYear": "5.00%",
+    "uptime": "3.97%",
+    "uptimeDay": "3.97%",
+    "uptimeWeek": "3.97%",
+    "uptimeMonth": "3.97%",
+    "uptimeYear": "3.97%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-11": 10
+      "2023-02-11": 13
     }
   }
 ]
