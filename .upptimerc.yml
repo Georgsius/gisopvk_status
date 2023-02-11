@@ -14,14 +14,15 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Монитор доступности ГИС ОПВК
   introTitle: 
-  introMessage: 
+  introMessage: "Монитор доступности ГИС ОПВК запущен 11.02.2023 для наблюдения за доступностью системы"
   navbar:
     - title: Статус
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: ГИС ОПВК
+      href: https://gisopvk.ru/
+      #href: https://github.com/$OWNER/$REPO
       
-  theme: ocean
+  theme: light
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
