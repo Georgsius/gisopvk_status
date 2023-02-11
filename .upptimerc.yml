@@ -29,9 +29,9 @@ status-website:
 i18n:
   activeIncidents: Активные инцинденты
   allSystemsOperational: Все системы работают
-  incidentReport: "Incident #$NUMBER report →"
+  incidentReport: "Отчет инциндента №$NUMBER →"
   activeIncidentSummary: Opened at $DATE with $POSTS posts
-  incidentTitle: Incident $NUMBER Details
+  incidentTitle: Подробности $NUMBER
   incidentDetails: Подробности инциндента
   incidentFixed: Закрыто
   incidentOngoing: Продолжается
@@ -42,10 +42,10 @@ i18n:
   incidentBack: ← Назад ко всем инциндентам
   pastIncidents: Прошлые инцинденты
   pastIncidentsResolved: Разрешено за $MINUTES минут с $POSTS постами
-  liveStatus: Live Status
-  overallUptime: "Overall uptime: $UPTIME"
-  overallUptimeTitle: Overall uptime
-  averageResponseTime: "Average response time: $TIMEms"
+  liveStatus: Статус
+  overallUptime: "Доступность за все время: $UPTIME"
+  overallUptimeTitle: Доступность за все время
+  averageResponseTime: "Среднее время ответа: $TIMEms"
   averageResponseTimeTitle: Average response
   sevelDayResponseTime: 7-day response time
   responseTimeMs: Response time (ms)
@@ -53,7 +53,7 @@ i18n:
   down: Down
   degraded: Degraded
   ms: ms
-  loading: Loading
+  loading: Загрузка
   navGitHub: GitHub
   footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: Rate limit exceeded
@@ -78,8 +78,8 @@ i18n:
   scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
   startedAt: Started at
   startsAt: Starts at
-  duration: Duration
-  durationMin: $DURATION minutes
+  duration: Продолжительность
+  durationMin: $DURATION минут
   incidentCompleted: Completed
   incidentScheduled: Scheduled
   duration24H: 24h
