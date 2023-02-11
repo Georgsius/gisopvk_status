@@ -30,15 +30,15 @@ i18n:
   activeIncidents: Активные инцинденты
   allSystemsOperational: Все системы работают
   incidentReport: "Отчет инциндента №$NUMBER →"
-  activeIncidentSummary: Opened at $DATE with $POSTS posts
+  activeIncidentSummary: Открыто $DATE; $POSTS комментариев
   incidentTitle: Подробности $NUMBER
   incidentDetails: Подробности инциндента
   incidentFixed: Закрыто
   incidentOngoing: Продолжается
-  incidentOpenedAt: Opened at
-  incidentClosedAt: Closed at
-  incidentViewOnGitHub: View and Subscribe on GitHub
-  incidentCommentSummary: Posted at $DATE by $AUTHOR
+  incidentOpenedAt: Открыто
+  incidentClosedAt: Закрыто
+  incidentViewOnGitHub: Смотреть на GitHub
+  incidentCommentSummary: Опубликовано $DATE; Автор: $AUTHOR
   incidentBack: ← Назад ко всем инциндентам
   pastIncidents: Прошлые инцинденты
   pastIncidentsResolved: Разрешено за $MINUTES минут с $POSTS постами
@@ -49,13 +49,13 @@ i18n:
   averageResponseTimeTitle: Average response
   sevelDayResponseTime: 7-day response time
   responseTimeMs: Response time (ms)
-  up: Up
-  down: Down
+  up: Работает
+  down: Лежит
   degraded: Degraded
   ms: ms
   loading: Загрузка
   navGitHub: GitHub
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  footer: Эта страница [open source]($REPO), сделано с помощью [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: Rate limit exceeded
   rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
   rateLimitExceededWhatDoesErrorMean: What does this error mean?
