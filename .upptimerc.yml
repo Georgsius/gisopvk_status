@@ -5,6 +5,7 @@ repo: gisopvk_status # The name of this repository
 sites:
   - name: ГИС ОПВК
     url: https://gisopvk.ru/login
+    icon: https://gisopvk.ru/assets/icon/favicon.png
     maxResponseTime: 10000
 
 status-website:
